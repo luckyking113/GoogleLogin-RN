@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>607470170400-o4jurltruatbv2h22k77j19le19itjik.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.607470170400-o4jurltruatbv2h22k77j19le19itjik</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDKwatmeHFzMgmZg10meziG6inXPPGx00o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>607470170400</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.GoogleLogin</string>
+	<key>PROJECT_ID</key>
+	<string>login-aeb21</string>
+	<key>STORAGE_BUCKET</key>
+	<string>login-aeb21.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:607470170400:ios:d2511becd9c8bcad5d6745</string>
+	<key>DATABASE_URL</key>
+	<string>https://login-aeb21.firebaseio.com</string>
+</dict>
+</plist>
